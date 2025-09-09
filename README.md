@@ -1,2 +1,3 @@
 # my-repository-demo
-this is my repository demo
+This is my repository demo.
+Author-AnanyaChowdhury
